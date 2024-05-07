@@ -2,6 +2,7 @@ import streamlit as st
 import pandas as pd
 import pickle
 
+
 # Declaring the teams
 teams = ['Royal Challengers Bangalore', 'Mumbai Indians', 'Kings XI Punjab', 'Kolkata Knight Riders',
        'Sunrisers Hyderabad', 'Rajasthan Royals', 'Chennai Super Kings',
